@@ -5,7 +5,7 @@ Therefore, a small-sized laboratory dataset is created, and deep learning models
 
 The paper will be referenced here when it's published.  
 
-The data can be found on Zenodo.
+The data can be found on [Zenodo](https://zenodo.org/records/14616139).
 
 ## The Notebooks
 
