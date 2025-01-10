@@ -25,7 +25,7 @@ Leave-one-out cross-validation for both networks.
 
 ### Build Image
 
-    ```docker build  -t <image name> -f Dockerfile .```
+```docker build  -t <image name> -f Dockerfile .```
 
 ### Run
 * Run a notebook server:
